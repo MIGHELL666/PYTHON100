@@ -1,0 +1,6 @@
+# Interés simple: A = P*(1 + r*t)
+P = float(input("Capital inicial: "))
+r = float(input("Tasa anual (ej. 0.1 para 10%): "))
+t = float(input("Tiempo en años: "))
+A = P * (1 + r*t)
+print(f"Final: {A:.2f}  Interés: {A-P:.2f}")
