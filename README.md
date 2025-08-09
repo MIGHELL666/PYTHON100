@@ -1,5 +1,5 @@
 <p align=”center”>
-<img src="baner-js-html-css.jpeg" alt="Mi Banner" width="1024">
+<img src="BANNER.jpeg" alt="Mi Banner" width="1024">
 </p>
 
 # PYTHON100
